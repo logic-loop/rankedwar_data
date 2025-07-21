@@ -1,0 +1,92 @@
+{ 
+    "19075": {
+        "rankedwarreport": {
+            "id": 19075,
+            "start": 1731096000,
+            "end": 1731366055,
+            "winner": 50568,
+            "forfeit": false,
+            "factions": [
+                {
+                    "id": 50356,
+                    "name": "Colombo Crime Family",
+                    "score": 2753,
+                    "attacks": 614,
+                    "rank": {
+                        "before": "Silver I",
+                        "after": "Silver"
+                    },
+                    "rewards": {
+                        "respect": 1443,
+                        "points": 0,
+                        "items": [
+                            {
+                                "id": 1119,
+                                "name": "Melee Cache",
+                                "quantity": 2
+                            }
+                        ]
+                    },
+                    "members": [
+                        {
+                            "id": 3114287,
+                            "name": "MeowMeow448",
+                            "level": 69,
+                            "attacks": 130,
+                            "score": 718.97
+                        },
+                        {
+                            "id": 3024282,
+                            "name": "McPetey",
+                            "level": 88,
+                            "attacks": 93,
+                            "score": 432.95
+                        }
+                    ]
+                },
+                {
+                    "id": 50568,
+                    "name": "Toxic Spawn",
+                    "score": 4297,
+                    "attacks": 827,
+                    "rank": {
+                        "before": "Silver I",
+                        "after": "Silver II"
+                    },
+                    "rewards": {
+                        "respect": 2293,
+                        "points": 757,
+                        "items": [
+                            {
+                                "id": 1118,
+                                "name": "Armor Cache",
+                                "quantity": 1
+                            },
+                            {
+                                "id": 1121,
+                                "name": "Medium Arms Cache",
+                                "quantity": 1
+                            }
+                        ]
+                    },
+                    "members": [
+                        {
+                            "id": 2779158,
+                            "name": "SerasVic",
+                            "level": 76,
+                            "attacks": 193,
+                            "score": 1097.33
+                        },
+                        {
+                            "id": 2989029,
+                            "name": "sadcowboy",
+                            "level": 33,
+                            "attacks": 152,
+                            "score": 828.93
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
